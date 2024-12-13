@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**nbegly/nbegly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/8e96b915-df1f-4cc3-bb3c-ab12e0ea5e4b)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
